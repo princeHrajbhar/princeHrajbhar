@@ -15,6 +15,32 @@
 - 🎯 Goal: Build impactful products & startup ecosystem in India
 
 ---
+## 📊 GitHub Visuals
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=princeHrajbhar&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princeHrajbhar&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeHrajbhar&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 🐍 Contribution Graph (Snake Animation)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/princeHrajbhar/princeHrajbhar/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🛠️ Tech Stack Badges
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,ts,tailwind,fastapi,git" />
+</p>
 
 ## 🛠️ Tech Stack
 
