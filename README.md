@@ -1,20 +1,72 @@
 # 👋 Hi, I'm Prince Rajbhar
 
-🚀 Full Stack Developer | MERN Stack | Next.js | System Design Enthusiast  
-💡 Passionate about building scalable products & microservices  
-🌱 Currently exploring advanced backend architecture & SaaS systems  
+🚀 Full Stack Developer | MERN Stack | Next.js  
+💡 Building scalable web applications & backend systems  
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **full-stack applications using Next.js & MERN**
-- ⚙️ Building **authentication systems, APIs, and scalable backends**
-- 🧠 Interested in **System Design, Microservices, and Queue Systems (BullMQ)**
-- 📈 Focused on **real-world projects & production-level code**
-- 🎯 Goal: Build impactful products & startup ecosystem in India
+- 🔭 Working on full-stack projects using Next.js & MERN  
+- ⚙️ Building authentication systems, APIs & real-world apps  
+- 🧠 Exploring system design & scalable architectures  
+- 🎯 Focused on creating production-level applications  
 
 ---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,ts,tailwind,fastapi,git" />
+</p>
+
+---
+
+## 🚀 Currently Working On
+
+- Building scalable backend systems using Node.js & FastAPI  
+- Exploring microservices & queue systems (BullMQ)  
+- Improving system design & architecture skills  
+
+---
+
+## 🏆 Highlights
+
+- Built multiple full-stack projects deployed on Vercel  
+- Developed real-time messaging app using WebSockets  
+- Created role-based authentication systems using JWT  
+- Experience with multi-tenant architecture & webhook services  
+
+---
+
+## 📌 Projects
+
+### 🌐 Frontend / Full Stack
+
+- **Portfolio Website**  
+  https://portfolio-version3-one.vercel.app  
+
+- **Messaging Web App**  
+  https://messaging-web-app-two.vercel.app  
+
+- **Real Estate Website Clone**  
+  https://mahindra-lifespaces-real-estate.vercel.app  
+
+- **Role-Based Authentication System**  
+  https://role-based-auth-mpljdwrk2-princehrajbhars-projects.vercel.app  
+
+---
+
+### ⚙️ Backend Projects
+
+- **FastAPI Webhook Service**  
+  https://github.com/princeHrajbhar/fastapi-webhook-service  
+
+- **Multi-Tenant Sales Dashboard**  
+  https://github.com/princeHrajbhar/Multi-Tenant-Sales-Dashboard  
+
+---
+
 ## 📊 GitHub Visuals
 
 <p align="center">
@@ -28,7 +80,7 @@
 
 ---
 
-## 🐍 Contribution Graph (Snake Animation)
+## 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/princeHrajbhar/princeHrajbhar/output/github-contribution-grid-snake.svg" />
@@ -36,89 +88,17 @@
 
 ---
 
-## 🛠️ Tech Stack Badges
+## 🔗 Connect With Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,ts,tailwind,fastapi,git" />
-</p>
-
-## 🛠️ Tech Stack
-
-### 🚀 Frontend
-- Next.js (App Router)
-- React.js
-- TypeScript
-- Tailwind CSS
-
-### 🔧 Backend
-- Node.js
-- Express.js
-- Next.js API Routes
-- REST APIs
-
-### 🗄️ Database
-- MongoDB
-- PostgreSQL 
-
-### 🔐 Authentication & Tools
-- NextAuth.js
-- JWT & Session Management
-- Firebase (OTP Auth)
-- Cloudinary
-- Nodemailer
-
-### ⚙️ Dev Tools
-- Git & GitHub
-- Postman
-- VS Code
-- Docker 
-
----
-
-## 📌 Featured Projects
-
-### 🔹 Full Stack Authentication System
-- OTP verification (Email)
-- JWT + Session handling
-- Protected routes
-- Built using Next.js, MongoDB, Tailwind
-
----
-
-### 🔹 Portfolio with Admin Dashboard
-- Public portfolio + private admin panel
-- CRUD operations
-- Image upload via Cloudinary
-
----
-
-### 🔹 Queue-Based SaaS (BullMQ - In Progress)
-- Task queue system
-- Rate limiting
-- Microservice-based architecture
-
----
-
-## 📊 GitHub Stats
-
-![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=princeHrajbhar&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=princeHrajbhar&layout=compact&theme=radical)
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/princerajbhar/
-- 🌐 Portfolio:   https://portfolio-version3-one.vercel.app
-- 📧 Email: princerajbhar001@gmail.com
+- LinkedIn: https://www.linkedin.com/in/princerajbhar/  
+- GitHub: https://github.com/princeHrajbhar  
 
 ---
 
 ## ⚡ Fun Fact
 
-> I don’t just write code — I design systems that scale 🚀
+> I don’t just write code — I design systems that scale 🚀  
 
 ---
 
-⭐️ *If you like my work, consider giving a star to my repositories!*
+⭐️ If you like my work, consider giving a star to my repositories!
