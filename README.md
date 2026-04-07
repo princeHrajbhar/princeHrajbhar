@@ -70,12 +70,12 @@
 ## 📊 GitHub Visuals
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=princeHrajbhar&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princeHrajbhar&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=princeHrajbhar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=princeHrajbhar&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeHrajbhar&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeHrajbhar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
 </p>
 
 ---
