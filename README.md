@@ -1,109 +1,92 @@
-<div align="center">
-
 👋 Hi, I'm Prince Rajbhar
 
-Full Stack Developer • MERN • Next.js • Backend Engineering
+🚀 Full Stack Developer | MERN Stack | Next.js
+💡 Building scalable web applications & backend systems
 
-Building scalable web apps, APIs, authentication systems, and real-time products.
+🧑‍💻 About Me
 
-<p>
-  <a href="https://portfolio-version3-one.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/princerajbhar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/princeHrajbhar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+🔭 Working on full-stack projects using Next.js & MERN
 
-</div>
+⚙️ Building authentication systems, APIs & real-world apps
 
-🚀 About Me
+🧠 Exploring system design & scalable architectures
 
-💻 Building full-stack apps with Next.js, React, Node.js & MongoDB
-
-⚙️ Working on APIs, JWT auth, WebSockets & backend systems
-
-🏗️ Learning System Design, Microservices & BullMQ
-
-🎯 Focused on clean, scalable, production-ready applications
+🎯 Focused on creating production-level applications
 
 🛠️ Tech Stack
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,ts,tailwind,fastapi,git" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,fastapi,mongodb,postgres,tailwind,git,github,vercel" />
+🚀 Currently Working On
 
-</div>
+Building scalable backend systems using Node.js & FastAPI
 
-✨ Featured Projects
+Exploring microservices & queue systems (BullMQ)
 
-Project
+Improving system design & architecture skills
 
-What it showcases
+🏆 Highlights
 
-Link
+Built multiple full-stack projects deployed on Vercel
 
-💬 Messaging Web App
+Developed real-time messaging app using WebSockets
 
-Real-time messaging with WebSockets
+Created role-based authentication systems using JWT
 
-Live
+Experience with multi-tenant architecture & webhook services
 
-🔐 Role-Based Auth
+📌 Projects
 
-JWT authentication & authorization
+🌐 Frontend / Full Stack
 
-Live
+Portfolio Website
+https://portfolio-version3-one.vercel.app
 
-⚡ FastAPI Webhook Service
+Messaging Web App
+https://messaging-web-app-two.vercel.app
 
-Webhooks & backend API architecture
+Real Estate Website Clone
+https://mahindra-lifespaces-real-estate.vercel.app
 
-GitHub
+Role-Based Authentication System
+https://role-based-auth-mpljdwrk2-princehrajbhars-projects.vercel.app
 
-🏢 Multi-Tenant Dashboard
+⚙️ Backend Projects
 
-Multi-tenant backend architecture
+FastAPI Webhook Service
+https://github.com/princeHrajbhar/fastapi-webhook-service
 
-GitHub
+Multi-Tenant Sales Dashboard
+https://github.com/princeHrajbhar/Multi-Tenant-Sales-Dashboard
 
-🏠 Real Estate Clone
+📊 GitHub Visuals
 
-Responsive frontend development
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=princeHrajbhar&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
 
-Live
+  <img src="https://streak-stats.demolab.com?user=princeHrajbhar&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
-📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=princeHrajbhar&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
-<div align="center">
+🐍 Contribution Graph
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=princeHrajbhar&show_icons=true&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/princeHrajbhar/princeHrajbhar/output/github-contribution-grid-snake.svg" />
+</p>
 
-<img height="165" src="https://streak-stats.demolab.com?user=princeHrajbhar&theme=tokyonight&hide_border=true" />
+🔗 Connect With Me
 
-<br/>
+LinkedIn: https://www.linkedin.com/in/princerajbhar/
 
-<img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=princeHrajbhar&layout=compact&theme=tokyonight&hide_border=true" />
+GitHub: https://github.com/princeHrajbhar
 
-</div>
+⚡ Fun Fact
 
-🐍 Contributions
+I don’t just write code — I design systems that scale 🚀
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/princeHrajbhar/princeHrajbhar/output/github-contribution-grid-snake.svg" />
-
-</div>
-
-<div align="center">
-
-💡 I build products, not just projects.
-
-Open to collaborating on full-stack, backend, and open-source projects.
-
-⭐ If you like my work, consider starring a repository.
-
-</div>
+⭐️ If you like my work, consider giving a star to my repositories!
