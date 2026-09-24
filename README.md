@@ -87,6 +87,6 @@ GitHub: https://github.com/princeHrajbhar
 
 ⚡ Fun Fact
 
-I don’t just write code — I design systems that scale 🚀
+I don’t just write code, I design systems that scale 🚀
 
 ⭐️ If you like my work, consider giving a star to my repositories!
